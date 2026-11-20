@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-OAK Research provides in‑depth analyses, live market data, and expert insights on crypto assets, blockchain networks, and traditional finance markets. The platform offers research reports, real‑time data feeds, AI‑driven trading tools, and premium subscription services for investors and analysts seeking comprehensive market intelligence across digital and traditional finance.
+OAK Research provides independent research and data on cryptocurrency, stocks, ETFs, commodities, and forex. It offers in‑depth analyses, live market data, and expert insights through premium feeds, dashboards, and reports. The platform also includes tools such as the OAK Index, yields, portfolios, and AI‑driven trading benchmarks, catering to both retail and institutional investors seeking comprehensive market intelligence.
 
-**Areas:** Crypto · Finance · Research · Data · Analytics · Market-Insights
+**Areas:** Company · Crypto · Finance · Research · Data
 
 ## OAK Research on APIs.io
 
